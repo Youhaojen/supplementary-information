@@ -1,6 +1,6 @@
 # Mg<sub>2</sub>GeSe<sub>4</sub> MLIP
 
-Supporting information for: ["Influence of Four-Phonon Scattering and Wave-like Phonon Tunneling Effects on Thermoelectric Properties of Mg<sub>2</sub>GeSe<sub>4</sub> with Machine Learning"](), Hao-Jen You, Yi-Ting Chiang, Arun Bansil, Hsin Lin. (Preparation)
+Supporting information for: ["Effects of Four-Phonon Scattering and Wave-like Phonon Tunneling Effects on Thermoelectric Properties of Mg2GeSe4 using Machine Learning"](), Hao-Jen You, Yi-Ting Chiang, Arun Bansil, Hsin Lin. (Preparation)
 
 ## MLIP type: MACE
 MACE version: v0.3.6
