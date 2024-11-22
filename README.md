@@ -6,4 +6,4 @@ Each directory corresponds to a specific paper. Please refer to the following pu
 
 |Folder|Related Paper|Comments|
 |---------------|-------------|------------------|
-|[202411_Mg2GeSe4](https://github.com/Youhaojen/supplementary_information/tree/main/202411_Mg2GeSe4)|[Effects of Four-Phonon Scattering and Wave-like Phonon Tunneling Effects on Thermoelectric Properties of Mg2GeSe4 using Machine Learning](https://arxiv.org/abs/2411.10605)|MACE|
+|[202411_Mg2GeSe4](https://github.com/Youhaojen/supplementary_information/tree/main/202411_Mg2GeSe4)|[Effects of Four-Phonon Scattering and Wave-like Phonon Tunneling Effects on Thermoelectric Properties of Mg2GeSe4 using Machine Learning](https://arxiv.org/abs/2411.10605) (Submitted)|MACE|
